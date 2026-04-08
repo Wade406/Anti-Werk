@@ -495,6 +495,7 @@ function drawControls() {
 
   //be sure to spell index with a lower case i
   //be sure to spell file names in lower case
+  //It's easier to do it right the first time
 }
 
 
