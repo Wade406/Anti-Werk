@@ -1,4 +1,4 @@
-# Anti-Work Time Machine
+# Anti-Werk Time Machine
 
 A small place where reality is misrepresented and time is squishy.
 
