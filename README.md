@@ -9,6 +9,6 @@ A small place where reality is misrepresented and time is squishy.
 - Take notes as you go, but you won't have time
 
 ## Enter the Time Machine
-[Play Now](https://wade406.github.io/Anti-Work)
+[Play Now](https://wade406.github.io/Anti-Werk)
 
 Built with p5.js
