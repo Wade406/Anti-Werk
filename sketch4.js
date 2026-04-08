@@ -493,3 +493,4 @@ function drawControls() {
   text("Arrow keys", canvasW/2, canvasH/2 - 20);
   text("Rt Click", canvasW/2, canvasH/2 + 20);
 }
+//be sure to spell index with a lower case i
