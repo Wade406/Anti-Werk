@@ -492,7 +492,10 @@ function drawControls() {
   textAlign(CENTER, CENTER);
   text("Arrow keys", canvasW/2, canvasH/2 - 20);
   text("Rt Click", canvasW/2, canvasH/2 + 20);
+
+  //be sure to spell index with a lower case i
+  //be sure to spell file names in lower case
 }
-//be sure to spell index with a lower case i
+
 
 
